@@ -1,0 +1,22 @@
+{
+  "name": "microservice-architecture-base",
+  "description": "Basic functionality package for sample Microservice application",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": "https://github.com/ogeday26/microservice-architecture-base.git",
+  "author": "ogeday26 <safa@rubiklabs.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.5.17",
+    "@types/uuid": "^8.3.0",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "uuid": "^8.3.2"
+  }
+}
