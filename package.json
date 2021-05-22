@@ -1,7 +1,7 @@
 {
   "name": "microservice-architecture-base",
   "description": "Basic functionality package for sample Microservice application",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "lib/Server.js",
   "types": "lib/Server.d.ts",
   "repository": "https://github.com/ogeday26/microservice-architecture-base.git",
